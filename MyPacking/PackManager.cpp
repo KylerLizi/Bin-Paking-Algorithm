@@ -4,7 +4,6 @@
 #include "string"
 #include "iostream"
 #include "FileManager.h"
-
 #include "glDraw.h"
 
 int main()
