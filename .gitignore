@@ -2,5 +2,5 @@
 BattleTank.VC.VC.opendb
 .vs/
 .vscode/
-.MyPacking/Debug/
-.MyPacking/x64/
+MyPacking/Debug/
+MyPacking/x64/
