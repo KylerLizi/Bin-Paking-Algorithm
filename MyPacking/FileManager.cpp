@@ -21,7 +21,7 @@ CString FileManager::GetFilePath() {
 	ofn.lpstrFilter = (LPSTR)"0Text\0*.TXT\0";
 	ofn.lpstrFileTitle = NULL;
 	ofn.nMaxFileTitle = 0;
-	ofn.lpstrInitialDir = (LPCSTR)"F:\\WorkSpace\\VisualStudio\\MyPacking\\MyPacking";
+	ofn.lpstrInitialDir = (LPCSTR)"..\\TestData";
 	ofn.Flags = OFN_PATHMUSTEXIST | OFN_FILEMUSTEXIST;
 
 	CString filePath;
