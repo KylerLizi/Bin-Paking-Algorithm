@@ -16,3 +16,28 @@
 * 调用`windows文件浏览窗口`，选择本地txt数据集作为输入(矩形格式为 宽 高 数量)<br>
 * 使用`Opengl显示列表`在窗口中绘制`空间利用率`<br>
 * `一次性绘制`或`左键点击逐个绘制`矩形排版结果(在glDraw.cpp中通过define设置)<br>
+
+### 运行结果
+数据集5<br>
+`2 2 256`<br>
+`4 4 128`<br>
+`8 8 64`<br>
+`16 16 32`<br>
+`32 32 16`<br>
+`64 64 8`<br>
+`128 128 4`<br>
+`256 256 2`<br>
+![5powersOf2](https://github.com/ColorGalaxy/Bin-Paking-Algorithm/raw/master/Screenshot/5powersOf2.png)<br>
+数据集7<br>
+`100 100 3`<br>
+`60 60 3`<br>
+`50 20 20`<br>
+`20 50 20`<br>
+`250 250 1`<br>
+`250 100 1`<br>
+`100 250 1`<br>
+`400 80 1`<br>
+`80 400 1`<br>
+`10 10 100`<br>
+`5 5 500`<br>
+![7complex](https://github.com/ColorGalaxy/Bin-Paking-Algorithm/raw/master/Screenshot/7complex.png)<br>
